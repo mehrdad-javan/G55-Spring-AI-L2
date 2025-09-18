@@ -2,7 +2,6 @@ package se.lexicon.g55springail2.service;
 
 import org.springframework.ai.tool.annotation.Tool;
 import org.springframework.stereotype.Component;
-import org.w3c.dom.stylesheets.LinkStyle;
 
 import java.util.ArrayList;
 import java.util.List;
